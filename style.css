@@ -1,0 +1,157 @@
+body
+{
+    background: url("../Images/background1.jpg")
+        no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar
+{
+    margin: 0;
+}
+
+
+.navbar-inverse .navbar-brand
+{
+   font-family: 'Anton':sans-serif;
+}
+
+.carousel{
+    margin-right: 210px;
+    margin-left: 210px;
+    margin-top: 0px;
+    height: 35 0px;
+    margin-bottom: 50px;
+    
+}
+
+.carousel .item{
+    height: 350px;
+    background-color: #777;
+}
+
+.carousel-inner > .item > img{
+    height: 350px;
+    position: absolute;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
+.black
+{
+    color: brown;
+}
+
+.caption
+{
+    font-family: 'Anton', sans-serif;
+}
+
+.para
+{
+    color: black;
+}
+.thumbnail{
+    border:none;
+    
+    background-color: white;
+}
+.caption
+{
+    text-align: center;
+}
+.divider
+{
+    margin: 0;
+    
+}
+.thumb_body
+{
+    
+    margin-bottom: 2px;
+    border: solid 2px;
+    margin-top: 0px;
+    background-color:white;
+}
+.frames
+{
+    margin-top: 100px;
+}
+.album
+{
+    margin-top: 111px;
+}
+
+.mickey
+{
+    padding-left: 50px;
+}
+
+.content
+{
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+
+.blacky
+{
+    color: black;
+}
+.handbags
+{
+    margin-top: 20px;
+}
+
+footer
+{
+    margin: 10px 50px;
+    height: 20px;
+}
+ 
+.thumb_body>h1
+{
+   font-family: 'Kanit', sans-serif;
+    color: white;
+    margin-top: 0px;
+    background-color: black;
+    text-align: center;
+    border-bottom: solid 1px;
+}
+
+.animate:hover
+{
+    animation: tada;
+    animation-duration: 1s;
+}
+
+.fadeInLeft
+{
+    animation-delay: 0.3s;
+}
+
+.fadeInDown
+{
+    animation-delay: 0.3s;
+}
+
+footer>p
+{
+    color: white;
+}
+
+.white
+{
+    color: white;
+}
+.span_class
+{
+    color: black;
+}
+
+
+
+
+
+
+
+
